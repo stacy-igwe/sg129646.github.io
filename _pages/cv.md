@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+*Note this has not been updated since June 2026* 
+
 ## Education
 
 **Carnegie Mellon University**  
